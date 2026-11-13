@@ -30,6 +30,7 @@
 | Папка | Что это |
 |---|---|
 | [rest/](rest/) | мини REST API на `net/http`: `GET /hello` возвращает `Hello, World!` |
+| [rest-advanced/](rest-advanced/) | REST API на Gin + GORM: `register`, `login`, `profile`, JWT, bcrypt, тесты |
 
 ## Как проходить
 
